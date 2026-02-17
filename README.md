@@ -6,7 +6,7 @@ A framework for creating interactive Python coding lessons with AI-powered feedb
 
 This package is under active development and breaking changes are likely.
 
-THis Python package is based on the [{blendtutor}](https://github.com/mcmullarkey/blendtutor) R package. While current features should be at parity this Python version has not been tested as extensively. There may be unexpected bugs not present in the R package.
+This Python package is based on the [{blendtutor}](https://github.com/mcmullarkey/blendtutor) R package. While current features should be at parity this Python version has not been tested as extensively. There may be unexpected bugs not present in the R package.
 
 ## What is blendtutor?
 
